@@ -37,7 +37,7 @@ A feature-rich Sudoku game and solver built with Python and Tkinter, offering a 
 
 ### 🔧 Installation
 
-```bash
+
 git clone https://github.com/yourusername/sudoku-solver.git
 cd sudoku-solver
 python sudoku_solver.py
@@ -46,10 +46,7 @@ No external dependencies are required!
 🕹️ How to Use
 Run the app using:
 
-bash
-Copy
-Edit
-python sudoku_solver.py
+
 Click on any cell and type numbers (1–9).
 
 Use the Solve button to see the solution.
